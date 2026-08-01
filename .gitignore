@@ -3,3 +3,6 @@ Thumbs.db
 
 # Local Netlify folder
 .netlify
+
+# Archived old drafts, not part of the site
+_archive/
